@@ -1,3 +1,1 @@
-# pythonProjects
-snake water gun game
-quiz game
+Chatbot Project with Real-Time News Integration:
